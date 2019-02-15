@@ -20,42 +20,41 @@ Automacao Controle e Supervisao
     - [Tutoriais-Dicas](#Tutoriais-Dicas)
 
 ## Artigos-Slides
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!JlwUFaZC)
-    - teste
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!JlwUFaZC)
 
 ## Biblioteca CLP
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!ll4wkCgb)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!ll4wkCgb)
 
 ## Elipse-Software
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!dw4kyCYC)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!dw4kyCYC)
 
 
 ## Ferramentas
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!454GjQzS)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!454GjQzS)
 
 ## IHM
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!c85AyCRT)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!c85AyCRT)
 
 ## Industria-4.0
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!gggCQSID)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!gggCQSID)
 
 ## Manuais
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!F14iCQSD)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!F14iCQSD)
 
 ## Normas
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!9ogSyQTY)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!9ogSyQTY)
 
 ## OEE
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!kwpAkQZI)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!kwpAkQZI)
 
 ## Robótica
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!xowwnYzZ)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!xowwnYzZ)
 
 ## Software
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!N4hWTAqK)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!N4hWTAqK)
 
 ## Treinamento
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!VtpyDKDA)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!VtpyDKDA)
 
 ## Tutoriais-Dicas
-- [Link do Mega](#https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!M4ognKzJ)
+- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!M4ognKzJ)
