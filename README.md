@@ -24,37 +24,101 @@ Automacao Controle e Supervisao
 
 ## Biblioteca CLP
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!ll4wkCgb)
+    - Bibliotecas Microwin
+    - Bibliotecas TIA
 
 ## Elipse-Software
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!dw4kyCYC)
+    - High Performance
+    - Modbus
+    - MProt
 
 
 ## Ferramentas
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!454GjQzS)
+    - AutomationML
+    - Bibliotecas de Comunicação C#
+    - Bibliotecas de Comunicação Python
+    - Eplan
+    - Ferramentas gerais
+    - Modbus TCP com Excel
+    - NetToPLCSim
+    - PLC Design
+    - Profinet
+    - Radio mobile
+    - Simatic
+        - Conversão SCL Simatic para TIA
+    - TIA Openness
 
 ## IHM
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!c85AyCRT)
 
+
 ## Industria-4.0
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!gggCQSID)
+    - Acatech
+    - Fraunhofer IPA
 
 ## Manuais
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!F14iCQSD)
+    - Elipse
+    - IFM
+    - Kuka
+    - Phoenix
+    - Profinet
+    - Rockewell
+    - Schneider
+    - Siemens
 
 ## Normas
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!9ogSyQTY)
+    - ABNT
 
 ## OEE
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!kwpAkQZI)
 
 ## Robótica
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!xowwnYzZ)
+    - Kuka
 
 ## Software
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!N4hWTAqK)
+    - ABB
+    - Altus
+    - Atos
+    - Diversos
+    - Eaton
+    - Elipse
+    - Hitachi
+    - IFM
+    - Infitech
+    - MDS
+    - Modbus
+    - Moeller
+    - Omron
+    - Phoenix
+    - Rockwell
+    - Shneider
+    - Siemens
+    - VIPA
+    - WEG
 
 ## Treinamento
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!VtpyDKDA)
+    - ActionNet
+    - Eplan
+    - Mitsubishi
+    - Omron
+    - Profinet
+    - Rockwell
+    - Siemens
+    - Treinamento Infitech
 
 ## Tutoriais-Dicas
 - [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!M4ognKzJ)
+    - CyberSecuroty
+    - Guidelines Automation
+    - Nuvem
+    - Rockwell
+    - Schneider
+    - Siemens
