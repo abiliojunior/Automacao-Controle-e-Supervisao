@@ -19,23 +19,27 @@ Automacao Controle e Supervisao
     - [Treinamento](#Treinamento)
     - [Tutoriais-Dicas](#Tutoriais-Dicas)
 
+
 ## Artigos-Slides
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!JlwUFaZC)
+- [Link](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2199092&cid=6AE0F766DB77AAEB)
+
+## Artigos-Slides
+- [Link](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2198632&cid=6AE0F766DB77AAEB)
 
 ## Biblioteca CLP
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!ll4wkCgb)
+- [Link](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2198645&cid=6AE0F766DB77AAEB)
     - Bibliotecas Microwin
     - Bibliotecas TIA
 
 ## Elipse-Software
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!dw4kyCYC)
+- [Link do Mega](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2198689&cid=6AE0F766DB77AAEB)
     - High Performance
     - Modbus
     - MProt
 
 
 ## Ferramentas
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!454GjQzS)
+- [Link do Mega](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2198716&cid=6AE0F766DB77AAEB)
     - AutomationML
     - Bibliotecas de Comunicação C#
     - Bibliotecas de Comunicação Python
@@ -51,16 +55,16 @@ Automacao Controle e Supervisao
     - TIA Openness
 
 ## IHM
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!c85AyCRT)
+- [Link do Mega](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2198782&cid=6AE0F766DB77AAEB)
 
 
 ## Industria-4.0
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!gggCQSID)
+- [Link do Mega](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2198786&cid=6AE0F766DB77AAEB)
     - Acatech
     - Fraunhofer IPA
 
 ## Manuais
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!F14iCQSD)
+- [Link do Mega](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2198801&cid=6AE0F766DB77AAEB)
     - Elipse
     - IFM
     - Kuka
@@ -71,18 +75,18 @@ Automacao Controle e Supervisao
     - Siemens
 
 ## Normas
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!9ogSyQTY)
+- [Link do Mega](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2198826&cid=6AE0F766DB77AAEB)
     - ABNT
 
 ## OEE
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!kwpAkQZI)
+- [Link do Mega](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2198831&cid=6AE0F766DB77AAEB)
 
 ## Robótica
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!xowwnYzZ)
+- [Link do Mega](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2198844&cid=6AE0F766DB77AAEB)
     - Kuka
 
 ## Software
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!N4hWTAqK)
+- [Link do Mega](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2199301&cid=6AE0F766DB77AAEB)
     - ABB
     - Altus
     - Atos
@@ -104,7 +108,7 @@ Automacao Controle e Supervisao
     - WEG
 
 ## Treinamento
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!VtpyDKDA)
+- [Link do Mega](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2198852&cid=6AE0F766DB77AAEB)
     - ActionNet
     - Eplan
     - Mitsubishi
@@ -115,7 +119,7 @@ Automacao Controle e Supervisao
     - Treinamento Infitech
 
 ## Tutoriais-Dicas
-- [Link do Mega](https://mega.nz/#F!ZoBRGCBC!b7KSUi-Ix10AtUREqCN8Iw!M4ognKzJ)
+- [Link do Mega](https://onedrive.live.com/?authkey=%21AHiMVz17rGyWNt0&id=6AE0F766DB77AAEB%2199002&cid=6AE0F766DB77AAEB)
     - CyberSecuroty
     - Guidelines Automation
     - Nuvem
